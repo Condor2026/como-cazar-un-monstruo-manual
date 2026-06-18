@@ -180,22 +180,9 @@ Bajo las condiciones:
 ## 📬 Contacto
 
 ¿Preguntas, sugerencias o quieres colaborar?  
-Abre un [issue](https://github.com/tu-usuario/como-cazar-un-monstruo-manual/issues) o contacta en:  
-**[tu-email@dominio.com]**
+Abre un [issue](https://github.com/Condor2026/como-cazar-un-monstruo-manual/issues) o contacta en:  
+**[KiraSecuruty@proton.me]**
 
 ---
 
 **"Documentar la verdad es el primer paso hacia la justicia."**
-
-```
-
----
-
-## ✅ Lo que tienes que hacer
-
-1. **Copia este contenido** y pégalo en tu archivo `README.md`.
-2. **Sustituye** los corchetes `[ ]` y los textos en **negrita** con tu información personal (nombre, emails, enlaces, etc.).
-3. **Sube el archivo** a la raíz de tu repositorio en GitHub.
-4. Cuando crees el resto de archivos y carpetas, actualiza el estado de cada módulo en la tabla.
-
----
