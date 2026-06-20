@@ -4,6 +4,10 @@
 [![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-yellow.svg)]()
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repositorio-black?logo=github)](https://github.com/tu-usuario/como-cazar-un-monstruo-manual)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Manual+de+Investigaci%C3%B3n+Forense;Periodismo+de+Investigaci%C3%B3n+%C3%89tico;Basado+en+el+caso+Llu%C3%ADs+Gros;Justicia+y+Verdad+como+objetivo;Anonimato+y+protecci%C3%B3n+como+escudo" alt="Typing animation" />
+</p>
+
 ---
 
 ## 📖 ¿Qué es esto?
