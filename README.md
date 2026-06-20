@@ -167,13 +167,13 @@ Bajo las condiciones:
 
 | Módulo | Estado |
 |--------|--------|
-| 00. Introducción | 🔄 En desarrollo |
-| 01. Fase previa | ⏳ Pendiente |
-| 02. Investigación | ⏳ Pendiente |
-| 03. Fase legal | ⏳ Pendiente |
-| 04. Post-investigación | ⏳ Pendiente |
-| 05. Recursos | ⏳ Pendiente |
-| 06. Anexos | ⏳ Pendiente |
+| 00. Introducción | 🔄 Completado |
+| 01. Fase previa | ⏳ Completado |
+| 02. Investigación | ⏳ Completado |
+| 03. Fase legal | ⏳ Completado |
+| 04. Post-investigación | ⏳ Completado |
+| 05. Recursos | ⏳ Completado |
+| 06. Anexos | ⏳  Completado |
 
 ---
 
