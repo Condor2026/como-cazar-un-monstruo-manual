@@ -26,4 +26,3 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/
 
 ---
 
-**Nota:** Mientras el proyecto esté en fase inicial, se mantendrá sin número de versión formal hasta alcanzar la v1.0.
