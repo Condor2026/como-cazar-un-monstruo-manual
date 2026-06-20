@@ -183,6 +183,7 @@ Bajo las condiciones:
 Abre un [issue](https://github.com/Condor2026/como-cazar-un-monstruo-manual/issues) o contacta en:  
 **[KiraSecuruty@proton.me]**
 
+https://github.com/Condor2026
 ---
 
 **"Documentar la verdad es el primer paso hacia la justicia."**
