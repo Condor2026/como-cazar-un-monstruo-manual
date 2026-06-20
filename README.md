@@ -134,9 +134,9 @@ Lee [`CONTRIBUTING.md`](CONTRIBUTING.md) para saber cómo aportar contenido, cor
 
 ## 👤 Autor
 
-**Tu nombre o alias**  
-[Enlace a tu GitHub]  
-[Enlace a tu LinkedIn o web profesional]
+**Condor2026**  
+[https://github.com/Condor2026/como-cazar-un-monstruo-manual]  
+[Enlace a tu LinkedIn o web profesional] (Proximamente)
 
 ---
 
